@@ -1,0 +1,4 @@
+# Django project
+
+landing page
+
